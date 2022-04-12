@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/ucsb-cs156-S22/jpa03-htn5/branch/master/graph/badge.svg?token=qwtzrHWyEY)](https://codecov.io/gh/ucsb-cs156-S22/jpa03-htn5)
+
 # Setting up GitHub Actions
 
 To setup GitHub Actions so that the tests pass, you will need to configure
