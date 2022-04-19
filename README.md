@@ -1,4 +1,5 @@
 # demo-spring-react-example-v2: dsre-v2
+Repo: <https://github.com/ucsb-cs156-s22/jpa03-htn5>
 
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-htn5-docs/storybook/?path=/story/components-nav-appnavbar--no-role>
